@@ -5,6 +5,8 @@
 
 <img scr="./src/assets/demo.png">
 
+<img src="src/assets/demo.gif" alt="">
+
 ## Build Setup
 
 ``` bash

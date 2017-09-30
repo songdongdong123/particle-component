@@ -3,7 +3,8 @@
 > 在vue中使用particles.js来创建自己的粒子动画组件
 # 效果展示
 
-<img scr="src/assets/demo.png">
+<img scr="./src/assets/demo.png">
+<img src="src/assets/demo.png" alt="">
 ## Build Setup
 
 ``` bash
